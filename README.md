@@ -10,4 +10,4 @@
 - [Spring framework](https://github.com/kdmin0706/TIL/tree/main/Spring)
 
 ### 2. 백엔드
-- [database](https://github.com/kdmin0706/TIL/tree/main/database)
+- [Database](https://github.com/kdmin0706/TIL/tree/main/database)
